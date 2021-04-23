@@ -1,5 +1,8 @@
 # Flask-Blog
 
+![image](https://user-images.githubusercontent.com/66702878/115939479-cba15e80-a463-11eb-9469-82ccd5b2b1bd.png)
+
+
 Advanced flask blog application with features including:
 
 - Login/Register w/ Reset Password and email verification
